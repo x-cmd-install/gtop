@@ -36,7 +36,7 @@ Total: **2,359** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,936 · **Forks**: 339 · **Open issues**: 96 · **Contributors**: 9
+- **Stars**: 9,937 · **Forks**: 339 · **Open issues**: 96 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -46,12 +46,22 @@ Total: **2,359** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 0 | 0 | 5 | 2 | 0 | 1 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 0 | 0 | 5 | 2 | 0 | 1 |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/gtop). **12** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.1.5` | ✅ latest |
+| Homebrew | `1.1.5` | ✅ latest |
+| Nix unstable | `1.1.5` | ✅ latest |
 
 ## Improve this data
 
@@ -62,4 +72,4 @@ Install metadata for gtop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:22:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:58:17Z._
